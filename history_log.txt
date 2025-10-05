@@ -1,3 +1,4 @@
 Retro update at 2025-08-25T14:19:41: docs: update usage guide
 Retro update at 2025-09-06T15:35:54: fix: resolve edge case issues
 Retro update at 2025-10-09T16:09:23: init: initial project structure
+Retro update at 2025-10-05T12:08:29: docs: add basic documentation
